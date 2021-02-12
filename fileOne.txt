@@ -1,0 +1,14 @@
+total 25
+drwxr-xr-x 1 Vipin Malik 197610   0 Feb 12 10:20 .
+drwxr-xr-x 1 Vipin Malik 197610   0 Feb 11 23:52 ..
+-rwxr-xr-x 1 Vipin Malik 197610 405 Feb 12 00:23 conditionals.sh
+-rw-r--r-- 1 Vipin Malik 197610  69 Feb 11 23:59 file.txt
+-rw-r--r-- 1 Vipin Malik 197610  59 Feb 12 10:17 file2.txt
+-rw-r--r-- 1 Vipin Malik 197610   0 Feb 12 10:21 fileOne.txt
+-rw-r--r-- 1 Vipin Malik 197610   0 Feb 12 10:21 fileTwo.txt
+-rwxr-xr-x 1 Vipin Malik 197610  34 Feb 12 00:00 hello-script.sh
+-rwxr-xr-x 1 Vipin Malik 197610  72 Feb 12 00:04 heredoc-delimiter.sh
+-rwxr-xr-x 1 Vipin Malik 197610 643 Feb 12 10:00 loops.sh
+-rwxr-xr-x 1 Vipin Malik 197610  54 Feb 12 00:01 redirect-file.sh
+-rwxr-xr-x 1 Vipin Malik 197610 141 Feb 12 10:16 script-input.sh
+-rwxr-xr-x 1 Vipin Malik 197610  49 Feb 12 10:21 script-output.sh
